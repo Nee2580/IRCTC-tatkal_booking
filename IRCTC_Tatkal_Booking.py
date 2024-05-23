@@ -12,20 +12,20 @@ from win10toast import ToastNotifier
 
 #journey details
 
-from_station = 'AMBALA CANT JN - UMB'
-to_station ='VARANASI JN - BSB'
-date = '26-05-2018'
-train_no = '13152'
-class_ = '3A'
-quota = 'GN'
-phone_no = '9115XXXXXX'
+from_station = 'cuddpa JN'
+to_station ='gorakhpur jn'
+date = '16/09/2024'
+train_no = '12707'
+class_ = 'SL'
+quota = 'TK'
+phone_no = '7348708061'
 
 
 
 #passengers details [Name, age, gender ,birth_choice]
 passenger_details = [
-    ['VISHAL KUMAR','20','M','LB'],
-    ['VIKAS KUMAR','24','M','LB']
+    ['Neeraj','16','M','LB'],
+    ['Anshu','17','M','LB']
     ]
 
 
